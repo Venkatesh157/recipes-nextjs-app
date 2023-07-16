@@ -4,6 +4,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First install dependencies, run the development server:
 
+# Pre-requistics
+
+- Make sure to check Space ID and Access Token is set correctly in .env.local
+
+Values:
+
+- CONTENTFUL_SPACE_ID
+- CONTENTFUL_ACCESS_TOKEN
+
 ```bash
 # Install dependencies
 npm install
